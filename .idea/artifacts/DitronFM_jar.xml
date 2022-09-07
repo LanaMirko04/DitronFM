@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DitronFM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DitronFM_jar</output-path>
+    <root id="archive" name="DitronFM.jar">
+      <element id="module-output" name="DitronFM" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
